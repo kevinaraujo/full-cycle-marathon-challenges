@@ -6,4 +6,4 @@ COPY ./src /app
 
 CMD ["/usr/bin/node", "/app/app.js"]
 
-EXPOSE 8080/tcp
+EXPOSE 8084/tcp
